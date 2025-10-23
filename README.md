@@ -17,9 +17,9 @@ This project is a **replication of the Gemini LLM Chatbot** you can ask any ques
 pip install -r requirements.txt
 
 **3) Get your Gemini API key**
-Visit Google AI Studio
-Sign in with your Google account
-Create a new API key (it’s free)
+Visit Google AI Studio.
+Sign in with your Google account.
+Create a new API key (it’s free).
 
 **4) Create a .env file**
 Create a new file in the project root directory named .env and add:
