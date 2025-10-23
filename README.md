@@ -26,6 +26,6 @@ Create a new file in the project root directory named .env and add:
 GOOGLE_API_KEY="your_api_key_here"
 
 **5)Run the Streamlit app**
-streamlit run app.py
+streamlit run project.py
 
 
